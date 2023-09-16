@@ -21,9 +21,6 @@ function preparePizza(Size, Crust, Topping) {
   };
   return pizzaOrder;
 }
-
-//let CustomOrder = preparePizza(getPizzaOrder("large", "thick", pizzaToppings));
-
 function servePizza(pizzaOrder) {
   console.log(`Your pizza with ${pizzaToppings} is ready!`);
   return pizzaOrder;
