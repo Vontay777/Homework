@@ -1,0 +1,48 @@
+* {
+  margin: 15px;
+
+
+}
+body{
+  background-color: darkgrey;
+}
+h1,h2,ul{
+  color:whitesmoke;
+}
+img {
+  align-content: center;
+  border: solid black 2px;
+  padding: 20px;
+  margin-left: 30px;
+  background-color: #717a97;
+}
+h1, h2{
+  text-align: center;
+}
+h1:hover{
+  color:#495a4f;
+}
+
+a {
+  background-color: #495a4f;
+  margin-left: 260px;
+  border: solid black 2px;
+  border-radius:20px;
+  padding: 10px ;
+  text-align: center;
+  color: black;
+}
+a:hover{
+  color: whitesmoke;
+}
+
+div5{
+  margin-left: 95px;
+}
+
+
+p1 {
+  padding: 0px;
+  margin: 0px;
+}
+
