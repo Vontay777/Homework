@@ -15,6 +15,7 @@ Will provide a section to enter zip code that will navigate you to the Parks pag
 ### Parks & Information
 Will provide various pictures of local parks near you, population levels of parks, Local weather forecast, and maps of the parks and their many trails.
 Upon choosing a park it will provide general information regarding the park such as name, address, and history.
+Provides navigation of trail selected.
 
 ### Contact Us
 Will provide information and links to contact me.
