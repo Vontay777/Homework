@@ -1,0 +1,48 @@
+html {
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 100%;
+}
+
+#bio{
+
+}
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+
+#introPic {
+  align-self: center;
+}
+
+#bio {
+  list-style-type:none;
+  align-items:center;
+  border: 2px;
+  padding: 1px;
+
+}
+#bio > li {
+  padding: 2px;
+}
+
+#pro {
+  width: auto;
+}
+@media (max-width: 20px) {
+  .iphone6-7-8{
+    display: none;
+  }
